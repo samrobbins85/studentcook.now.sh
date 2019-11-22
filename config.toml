@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://example.com/'
-title = 'Hugo Book'
+title = 'Student Cook'
 theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
@@ -17,21 +17,7 @@ pygmentsCodeFences = true
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content'
-  weight = 1
 
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
-
-[languages.cn]
-  languageName = 'Chinese'
-  contentDir = 'content.cn'
-  weight = 3
 
 [params]
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
