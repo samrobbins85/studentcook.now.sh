@@ -5,7 +5,7 @@ type: docs
 
 
 ## Student Cook
-Recipes by Sam and Karina
+Recipes shamelessly stolen by Sam and Karina
 
 
 
