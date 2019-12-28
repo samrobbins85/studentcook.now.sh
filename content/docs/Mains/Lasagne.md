@@ -3,6 +3,10 @@
 * 1 onion
 * 500g mince
 * Jar of Lasagne sauce
+* Lasagne sheets
+* Cornflour
+* 500ml Milk
+
 ## Method
 1. In a pan, heat the oil and cook the onion for 5 minutes until soft
 2. Add the mince to the pan and cook until brown
