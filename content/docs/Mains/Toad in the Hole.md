@@ -8,7 +8,7 @@
  * 175ml milk
 
 ## Method
-* Heat oven to 220C/200C fan/gas 7.
+* Heat oven to 220C/180C fan/gas 7.
 * Put the 12 chipolatas in a 20 x 30cm roasting tin with 1 tbsp sunflower oil, then bake for 15 mins until browned.
 * Meanwhile, make up the batter mix. Tip 140g plain flour into a bowl with ½ tsp salt, make a well in the middle and crack 2 eggs into it.
 * Use an electric whisk to mix it together, then slowly add 175ml semi-skimmed milk, whisking all the time. Leave to stand until the sausages are nice and brown.
