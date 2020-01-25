@@ -4,7 +4,7 @@
 * 110g Golden Caster sugar
 * 2 large eggs
 * 1/2 tsp vanilla extract
-* 100g self-raising flour
+* 110g self-raising flour
 
 ## Method
 1. Heat oven to 180C/160C fan/gas 4 and fill a 12 cupcake tray with cases.
