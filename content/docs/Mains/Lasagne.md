@@ -6,6 +6,7 @@
 * Lasagne sheets
 * Cornflour
 * 500ml Milk
+* Quater of a block of cheese grated
 
 ## Method
 1. In a pan, heat the oil and cook the onion for 5 minutes until soft
@@ -22,5 +23,6 @@
 ## Cheese sauce Method
 * Add 500ml milk to a mixing jug
 * Add 2.5 dessert spoons of cornflour and stir
+* Add the cheese and stir more
 * Microwave for about 3 minutes and stir
 * Keep putting back in a minute at a time and stirring until it thickens (allow plenty of space in the top of the jug for it to expand)
