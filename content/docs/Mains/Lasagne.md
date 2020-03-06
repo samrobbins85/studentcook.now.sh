@@ -4,7 +4,7 @@
 * 500g mince
 * Jar of Lasagne sauce
 * Lasagne sheets
-* Cornflour
+* 2.5 tablespoons Cornflour
 * 500ml Milk
 * Quater of a block of cheese grated
 
@@ -22,7 +22,7 @@
 
 ## Cheese sauce Method
 * Add 500ml milk to a mixing jug
-* Add 2.5 dessert spoons of cornflour and stir
+* Add 2.5 table spoons of cornflour and stir
 * Add the cheese and stir more
 * Microwave for about 3 minutes and stir
 * Keep putting back in a minute at a time and stirring until it thickens (allow plenty of space in the top of the jug for it to expand)
